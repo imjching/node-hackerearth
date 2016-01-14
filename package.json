@@ -1,0 +1,19 @@
+{
+  "name": "node-hackerearth",
+  "version": "1.0.0",
+  "description": "A node.js wrapper for HackerEarth API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjching/node-hackerearth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imjching/node-hackerearth/issues"
+  },
+  "homepage": "https://github.com/imjching/node-hackerearth#readme"
+}
