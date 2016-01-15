@@ -1,7 +1,7 @@
 {
   "name": "node-hackerearth",
   "version": "1.0.0",
-  "description": "A node.js wrapper for HackerEarth API.",
+  "description": "A node.js wrapper for the HackerEarth API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/imjching/node-hackerearth.git"
   },
-  "author": "",
+  "author": "Jay Ching Lim <imjching@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/imjching/node-hackerearth/issues"
   },
-  "homepage": "https://github.com/imjching/node-hackerearth#readme"
+  "homepage": "https://github.com/imjching/node-hackerearth#readme",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
 }
