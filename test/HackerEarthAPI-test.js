@@ -1,7 +1,7 @@
 var assert = require('assert'),
     vows = require('vows');
 
-var HackerEarthAPI = require('node-hackerearth');
+var HackerEarthAPI = require('../lib/hackerearth/HackerEarthAPI');
 
 vows.describe('HackerEarthAPI').addBatch({
 

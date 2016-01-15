@@ -1,1 +1,1 @@
-module.exports = require('./lib/hackerearth/HackerEarthAPI.js');
+module.exports = require('./lib/hackerearth/HackerEarthAPI');
