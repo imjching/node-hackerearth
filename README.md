@@ -1,5 +1,7 @@
 # node-hackerearth
 
+[![npm status](http://img.shields.io/npm/v/node-hackerearth.svg?style=flat-square)](https://www.npmjs.org/package/node-hackerearth) [![Travis build status](https://travis-ci.org/imjching/node-hackerearth.svg?branch=master&style=flat-square&label=travis)](https://travis-ci.org/imjching/node-hackerearth)
+
 A node.js wrapper for the HackerEarth API.
 
 Currently, both version 2 and 3 of the HackerEarth API are supported through *node-hackerearth*. However, version 2 has been discontinued by HackerEarth.
