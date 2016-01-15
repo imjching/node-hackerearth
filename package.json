@@ -1,6 +1,6 @@
 {
   "name": "node-hackerearth",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A node.js wrapper for the HackerEarth API.",
   "main": "index.js",
   "scripts": {
