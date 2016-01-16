@@ -68,6 +68,9 @@ api.run({ source: data, lang: 'PYTHON', time_limit: 1 }, function (err, data) {
 });
 ```
 
+## TODO
+- Complete unit tests
+
 ## License
 
 *node-hackerearth* is licensed under the MIT License. (See LICENSE)
